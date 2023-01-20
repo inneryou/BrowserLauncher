@@ -4,6 +4,7 @@ public class Main{
     lp.setTitle("Luncheeer Panel");
     lp.setBounds(200,200,200,200);
     lp.setSize(300,200);
+    lp.start();
     lp.setShow();
   }
 }
